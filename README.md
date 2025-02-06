@@ -31,5 +31,5 @@ I'm a backend developer with a focus on **PHP** and **Laravel**. I love building
 
 ## 📫 Contact Me  
 If you'd like to collaborate or discuss projects, feel free to reach out to me through:  
-- ✉️ Email: [arshia.moharrary@gmail.com]  
+- ✉️ Email: arshia.moharrary@gmail.com 
 - 🔵 Telegram: [@arshia_moharrary](https://t.me/arshia_moharrary)
