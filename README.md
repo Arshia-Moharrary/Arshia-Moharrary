@@ -24,13 +24,13 @@ I'm a backend developer with a focus on **PHP** and **Laravel**. I love building
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arshia-Moharrary&show_icons=true&theme=radical)
+## 💡 Top Projects  
+- [iLearn CMS](https://github.com/Arshia-Moharrary/iLearn-CMS) - iLearn is a Content Management System (CMS) built with the Laravel framework
 
 ---
 
-## 💡 Top Projects  
-- [iLearn CMS](https://github.com/Arshia-Moharrary/iLearn-CMS) - iLearn is a Content Management System (CMS) built with the Laravel framework
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arshia-Moharrary&show_icons=true&theme=radical)
 
 ---
 
