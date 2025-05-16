@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Arshia Moharrary!  
-### 💻 Backend Developer | PHP & Laravel Specialist  
+### 💻 Full-Stack Developer | PHP & Laravel Specialist  
 
 ---
 
