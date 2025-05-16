@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a backend developer with a focus on **PHP** and **Laravel**. I love building scalable APIs and complex systems. I'm always learning and improving my skills. 
+I'm a full-stack developer with a focus on **PHP**, **Laravel** and **React**. I love building scalable APIs and complex systems. I'm always learning and improving my skills. 
 
 ---
 
